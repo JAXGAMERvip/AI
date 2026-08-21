@@ -1,1 +1,1 @@
-ob54 0.7
+ob54 0.8 (sniper scope)
